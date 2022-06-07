@@ -1,0 +1,3 @@
+const ChivNFTs_CONTRACT_ADDRESS = "0xb8e68e105e98e9a4dc21d79b5826104a451a33f6"
+
+module.exports = { ChivNFTs_CONTRACT_ADDRESS };
